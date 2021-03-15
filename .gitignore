@@ -3,3 +3,7 @@
 ################################################################################
 
 /App_Calculo_IMC/App_Calculo_IMC/bin/Debug/netstandard2.0
+/App_Calculo_IMC/App_Calculo_IMC/obj
+/App_Calculo_IMC/App_Calculo_IMC.Android/bin/Debug
+/App_Calculo_IMC/App_Calculo_IMC.Android/obj
+/App_Calculo_IMC/App_Calculo_IMC.iOS/obj
